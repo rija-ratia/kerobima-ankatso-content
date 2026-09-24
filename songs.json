@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdatedAt": "2026-09-22T00:00:00.000Z",
   "albums": [
     {
@@ -12,6 +12,12 @@
       "id": "album-gloire-a-dieu",
       "name": "Gloire à Dieu",
       "year": 2022
+    },
+    {
+      "id": "AFA-PO",
+      "name": "AFA-PO",
+      "year": 2020,
+      "coverImage": "https://raw.githubusercontent.com/kerobima-ankatso/covers/main/album-2024.jpg"
     }
   ],
   "songs": [
