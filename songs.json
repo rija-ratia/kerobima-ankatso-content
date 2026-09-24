@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "lastUpdatedAt": "2026-09-22T00:00:00.000Z",
+  "albums": [
+    {
+      "id": "album-2024",
+      "name": "Album 2024",
+      "year": 2024,
+      "coverImage": "https://raw.githubusercontent.com/kerobima-ankatso/covers/main/album-2024.jpg"
+    },
+    {
+      "id": "album-gloire-a-dieu",
+      "name": "Gloire à Dieu",
+      "year": 2022
+    }
+  ],
+  "songs": [
+    {
+      "id": "song-jesus-lumiere-du-monde",
+      "title": "Jésus, lumière du monde",
+      "albumId": "album-2024",
+      "trackNumber": 1,
+      "lyrics": "Jésus, lumière du monde,\nBrille sur nos chemins obscurs.\nEn toi nulle ombre ne demeure,\nTa clarté chasse nos peurs.",
+      "pdfUrl": "https://raw.githubusercontent.com/kerobima-ankatso/partitions/main/album-2024/jesus-lumiere-du-monde.pdf",
+      "audioUrl": "https://drive.google.com/uc?id=PLACEHOLDER_AUDIO_1"
+    },
+    {
+      "id": "song-marche-a-la-lumiere",
+      "title": "Marche à la lumière",
+      "albumId": "album-2024",
+      "trackNumber": 2,
+      "lyrics": "Marche à la lumière,\nNe crains plus la nuit.\nLe Seigneur est ton berger,\nIl éclaire ton chemin.",
+      "pdfUrl": "https://raw.githubusercontent.com/kerobima-ankatso/partitions/main/album-2024/marche-a-la-lumiere.pdf"
+    },
+    {
+      "id": "song-tu-es-la-lumiere",
+      "title": "Tu es la lumière",
+      "albumId": "album-gloire-a-dieu",
+      "trackNumber": 1,
+      "lyrics": "Tu es la lumière,\nGloire à ton saint nom.\nDevant toi je m'incline,\nEt je chante ta bonté.",
+      "audioUrl": "https://drive.google.com/uc?id=PLACEHOLDER_AUDIO_2"
+    },
+    {
+      "id": "song-louez-le-seigneur",
+      "title": "Louez le Seigneur",
+      "albumId": "album-gloire-a-dieu",
+      "trackNumber": 2,
+      "lyrics": "Louez le Seigneur, ô mon âme,\nMarchons dans la lumière du Seigneur.\nChantons sa gloire sans cesse,\nD'un seul cœur, d'une seule voix.",
+      "pdfUrl": "https://raw.githubusercontent.com/kerobima-ankatso/partitions/main/album-gloire-a-dieu/louez-le-seigneur.pdf",
+      "audioUrl": "https://drive.google.com/uc?id=PLACEHOLDER_AUDIO_3"
+    },
+    {
+      "id": "song-dans-ta-presence",
+      "title": "Dans ta présence",
+      "lyrics": "Dans ta présence, ô Seigneur,\nTa lumière guide mes pas.\nJe me repose en toi,\nEn paix, jour après jour.",
+      "pdfUrl": "https://raw.githubusercontent.com/kerobima-ankatso/partitions/main/hors-album/dans-ta-presence.pdf",
+      "audioUrl": "https://drive.google.com/uc?id=PLACEHOLDER_AUDIO_4"
+    },
+    {
+      "id": "song-mitsangana-mihazava",
+      "title": "Mitsangàna, mihazava",
+      "lyrics": "Mitsangàna, mihazava,\nFa tonga ny fahazavanao.\nIsaïa enseigne notre marche,\nDans la clarté du Seigneur."
+    }
+  ]
+}
