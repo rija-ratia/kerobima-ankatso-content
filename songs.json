@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 10,
   "lastUpdatedAt": "2026-09-22T00:00:00.000Z",
   "releaseNote": "TEST : Nampidirina ny hira vaovao sy partition ary instruments vaovao.",
   "albums": [
@@ -12,6 +12,11 @@
     {
       "id": "album-gloire-a-dieu",
       "name": "Gloire à Dieu",
+      "year": 2022
+    },
+    {
+      "id": "JESOSY TSARA",
+      "name": "JESOSY TSARA",
       "year": 2022
     }
   ],
